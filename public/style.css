@@ -1,0 +1,36 @@
+h1 img {
+    display: block;
+    margin: 20px auto;
+    width: 489px;
+}
+
+input {
+    border: 1px solid #000;
+    background-color: #fdfdfd;
+    border-radius: 2px;
+    display: block;
+    font-size: 14px;
+    margin: 10px auto;
+    outline: none;
+    padding: 10px;
+}
+
+.result {
+    padding: 10px;
+    border: 1px solid #dfdfdf;
+    background-color: #fdfdfd;
+    
+}
+
+button {
+    border: none;
+    background-color: #3652cf;
+    border-radius: 2px;
+    color: #fff;
+    cursor: pointer;
+    display: block;
+    font-size: 14px;
+    margin: 10px auto;
+    outline: none;
+    padding: 10px 40px;
+}
